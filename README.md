@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student | Full Stack Developer | DevOps Enthusiast
+3rd year Computer Science Student | Full Stack Developer | DevOps Enthusiast
 
 
 ## 🌐 Socials:
