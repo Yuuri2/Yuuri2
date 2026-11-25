@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=Yuuri2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Yuuri2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yuuri2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Yuuri2&icon=1&color=9)](https://visitcount.itsvg.in)
